@@ -1,3 +1,24 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "hi",
+      "description": "hey",
+      "id": 1
+    },
+    {
+      "title": "ho",
+      "description": "opj",
+      "id": 2
+    },
+    {
+      "title": "ho",
+      "description": "opj",
+      "id": 3
+    },
+    {
+      "title": "stream",
+      "description": "great stream",
+      "id": 4
+    }
+  ]
 }
