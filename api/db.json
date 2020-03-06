@@ -1,60 +1,10 @@
 {
   "streams": [
     {
-      "title": "hi",
-      "description": "hey",
-      "id": 1
-    },
-    {
-      "title": "ho",
-      "description": "opj",
-      "id": 2
-    },
-    {
-      "title": "ho",
-      "description": "opj",
-      "id": 3
-    },
-    {
-      "title": "stream",
-      "description": "great stream",
-      "id": 4
-    },
-    {
-      "title": "today",
-      "description": "sunny day!",
-      "userId": "103570347575375307258",
-      "id": 5
-    },
-    {
-      "title": "today",
-      "description": "sunny day!",
-      "userId": "103570347575375307258",
-      "id": 6
-    },
-    {
       "title": "hy",
       "description": "h??",
       "userId": "103570347575375307258",
       "id": 7
-    },
-    {
-      "title": "hy",
-      "description": "h??",
-      "userId": "103570347575375307258",
-      "id": 8
-    },
-    {
-      "title": "hy",
-      "description": "h??",
-      "userId": "103570347575375307258",
-      "id": 9
-    },
-    {
-      "title": "hi",
-      "description": "hello",
-      "userId": "103570347575375307258",
-      "id": 10
     }
   ]
 }
