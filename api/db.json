@@ -1,3 +1,10 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Allison",
+      "description": "Full-Stack developer",
+      "userId": "103570347575375307258",
+      "id": 2
+    }
+  ]
 }
